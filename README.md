@@ -132,10 +132,10 @@ Proficient in development and deployment across **Windows**, **Linux**, and **ma
 ## 🛠️ Development Tools
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Nano](https://img.shields.io/badge/nano-4A90E2?style=for-the-badge&logo=gnu&logoColor=white)
 
-I use **JetBrains IDEs** for all my development work - they're simply the best tools for the job.
+I use **JetBrains IDEs** for all my development work - they're simply the best tools for the job. For iOS development, **Xcode** is essential. And of course, **nano** for quick edits in the terminal! 😄
 
 ---
 
