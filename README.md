@@ -77,7 +77,7 @@ Assembly     ███░░░░░░░░░░░░░░░░░░   F
 ![Cisco](https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Security](https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=security&logoColor=white)
 
-- **CCNA Certified** - Deep understanding of networking fundamentals
+- **CCNA** - Deep understanding of networking fundamentals
 - **IoT** - Internet of Things protocols and security
 - **Cybersecurity** - Security principles and best practices
 - **Cryptography** - Understanding of cryptographic algorithms including:
